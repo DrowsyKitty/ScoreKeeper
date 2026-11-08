@@ -1,3 +1,3 @@
 # ScoreKeeper
 
-codealong for the web development course
+codealong for the colt steele's web development course
